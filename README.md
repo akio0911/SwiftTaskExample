@@ -1,0 +1,4 @@
+# SwiftTaskExample
+
+SwiftTaskを使ってUIViewのアニメーションを連鎖させるサンプル
+
